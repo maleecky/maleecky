@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maleecky
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently working to lunch my own Startup
 - 💞️ I’m looking to collaborate on different tech projects
 - 📫 How to reach me (email: marickomary7@gmail.com )
 
